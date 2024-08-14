@@ -1,0 +1,19 @@
+C:/Users/User/Desktop/exes/ffmpeg-5.0-essentials_build/ffmpeg-5.0-essentials_build/bin/ffmpeg.exe -hide_banner -y -y -r 24 -start_number 0 -start_number_range 1 -i E:/Javascript/Cara medical institute/image/Icons/frame%04d.png -c:v libvpx-vp9 -b:v 2M E:/Javascript/Cara medical institute/image/Icons/Logopopup.webm
+=====================================================
+Input #0, image2, from 'E:/Javascript/Cara medical institute/image/Icons/frame%04d.png':
+  Duration: 00:00:00.36, start: 0.000000, bitrate: N/A
+  Stream #0:0: Video: png, rgba(pc), 2048x2048 [SAR 3937:3937 DAR 1:1], 25 fps, 25 tbr, 25 tbn
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> vp9 (libvpx-vp9))
+Press [q] to stop, [?] for help
+[libvpx-vp9 @ 000001e2da3f8880] v1.11.0-74-g51415c407
+Output #0, webm, to 'E:/Javascript/Cara medical institute/image/Icons/Logopopup.webm':
+  Metadata:
+    encoder         : Lavf59.16.100
+  Stream #0:0: Video: vp9, yuva420p(tv, progressive), 2048x2048 [SAR 1:1 DAR 1:1], q=2-31, 2000 kb/s, 24 fps, 1k tbn
+    Metadata:
+      encoder         : Lavc59.18.100 libvpx-vp9
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+frame=    1 fps=0.0 q=0.0 size=       1kB time=00:00:00.00 bitrate=N/A speed=   0x    frame=    9 fps=2.4 q=0.0 Lsize=      84kB time=00:00:00.33 bitrate=2051.8kbits/s speed=0.0903x    
+video:36kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 132.787109%

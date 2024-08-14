@@ -1,0 +1,50 @@
+color palletes
+03045e
+0077b6
+00b4d8
+90e0ef
+caf0f8
+
+
+ff9f1c
+ffbf69
+ffffff
+cbf3f0
+2ec4b6
+
+
+CDB4DB
+FFC8DD
+FFAFCC
+FFAFCC
+A2D2FF
+
+
+CCD5AE
+E9EDC9
+FEFAE0
+FAEDCD
+D4A373
+
+
+DAD7CD
+A3B18A
+588157
+3A5A40
+344E41
+
+
+
+"Breakthrough in Treating Rare Genetic Disorder: New Drug Restores Mobility in Clinical Trials"
+"Gut Microbiome Linked to Increased Risk of Alzheimer's Disease, Study Finds"
+"Robotic Surgery Revolutionizes Heart Valve Replacement, Reducing Recovery Time"
+"Promising Vaccine Candidate Shows Immunity Against Multiple Influenza Strains"
+"New Imaging Technique Detects Early-Stage Pancreatic Cancer with Unprecedented Accuracy"
+"Groundbreaking Stem Cell Therapy Reverses Vision Loss in Patients with Macular Degeneration"
+
+Akiko Tanaka
+Fatima Abdelrahman
+Liam Nguyen
+Aya Hernandez
+Sanjay Kumar
+Amelia Patel
